@@ -1,0 +1,17 @@
+[
+  { "name": "Yokomi", "rate": 3 },
+  { "name": "Murayama", "rate": 5 },
+  { "name": "Vincent", "rate": 6 },
+  { "name": "Aikawa", "rate": 5 },
+  { "name": "Teshigawara", "rate": 3 },
+  { "name": "Majima", "rate": 3 },
+  { "name": "Kawasaki", "rate": 3 },
+  { "name": "Lion", "rate": 5 },
+  { "name": "Oda", "rate": 3 },
+  { "name": "Harada", "rate": 1 },
+  { "name": "Aso", "rate": 2 },
+  { "name": "Justin", "rate": 1 },
+  { "name": "Kawamura", "rate": 2 },
+  { "name": "Obata", "rate": 1 },
+  { "name": "Kaneda", "rate": 4 }
+]
